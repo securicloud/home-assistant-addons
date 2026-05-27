@@ -58,11 +58,16 @@ At no point is your Home Assistant instance directly exposed to the internet.
 
 ## Installation
 
-1. Add the Securicloud Add-on Repository to Home Assistant
-2. Install the **Securicloud Agent** add-on
-3. Start the add-on
-4. Open the add-on Web UI
-5. Register the Instance ID with Securicloud
+In current Home Assistant versions, add-ons are managed from **Settings → Apps**.
+
+1. Open Home Assistant
+2. Go to **Settings → Apps**
+3. Open the **App store**
+4. Add the Securicloud add-on repository
+5. Install the **Securicloud Agent** add-on
+6. Start the add-on
+7. Open the add-on **Web UI**
+8. Register the Instance ID with Securicloud
 
 No additional configuration is required.
 
@@ -131,7 +136,7 @@ Resetting the Instance ID can resolve issues related to revoked or expired acces
 
 For documentation and updates, visit:
 
-https://securicloud.me
+https://securicloud.me/docs/home-assistant
 
 For support, contact:
 
