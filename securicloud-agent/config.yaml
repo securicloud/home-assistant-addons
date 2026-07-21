@@ -2,7 +2,7 @@ name: Securicloud Agent
 version: "1.0.0"
 slug: securicloud_agent
 url: https://securicloud.me/docs/home-assistant
-description: Secure, zero-configuration, cloud-based remote access
+description: Home Assistant remote access without port forwarding
 panel_icon: mdi:cloud-lock
 startup: services
 boot: auto
